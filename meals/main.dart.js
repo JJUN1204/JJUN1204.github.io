@@ -74631,7 +74631,7 @@ ap(){return new A.Or(B.j)}}
 A.Or.prototype={
 J(a){return B.FA}}
 A.w0.prototype={
-ap(){return new A.A8(B.MZ,B.j)}}
+ap(){return new A.A8(B.MY,B.j)}}
 A.A8.prototype={
 oN(){var s=0,r=A.a3(t.z),q=this,p,o,n,m,l
 var $async$oN=A.a4(function(a,b){if(a===1)return A.a0(b,r)
@@ -74650,7 +74650,7 @@ return A.aa(new A.a1d().tg(n,A.ji(m,"-","")),$async$oN)
 case 3:q.ar(new l.abg(q,b))
 return A.a1(null,r)}})
 return A.a2($async$oN,r)},
-J(a){return A.amT(null,null,A.hi(A.a([B.MY,A.jA(this.d,1)],t.D),B.aZ,B.aI,B.aJ),A.alr(B.Be,!1,this.gSy()))}}
+J(a){return A.amT(null,null,A.hi(A.a([B.MZ,A.jA(this.d,1)],t.D),B.aZ,B.aI,B.aJ),A.alr(B.Be,!1,this.gSy()))}}
 A.abg.prototype={
 $0(){var s=this.b,r=J.aq(s),q=this.a
 if(r.gac(s))q.d=B.yW
@@ -80524,8 +80524,8 @@ B.Md=new A.t(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.LT=new A.t(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.MW=new A.e3(B.LD,B.MF,B.Mq,B.Kk,B.Ml,B.Lx,B.MJ,B.KL,B.Lf,B.Mg,B.Kd,B.Mr,B.Mj,B.Md,B.LT)
 B.wK=new A.Kr(1,"longestLine")
-B.MY=new A.m3("2030101",null,null,null,null,null,null,null,null)
-B.MZ=new A.m3("\uac80\uc0c9\ud558\uc138\uc694",null,null,null,null,null,null,null,null)
+B.MY=new A.m3("\uae09\uc2dd\uc744 \uac80\uc0c9\ud558\uc138\uc694.",null,null,null,null,null,null,null,null)
+B.MZ=new A.m3("\uc131\uc77c(\uc815\ubcf4)\uace0\ub4f1\ud559\uad50",null,null,null,null,null,null,null,null)
 B.Gh=new A.j(0.056,0.024)
 B.G7=new A.j(0.108,0.3085)
 B.Gj=new A.j(0.198,0.541)
